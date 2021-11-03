@@ -92,5 +92,7 @@ Debes saber que bajo el protocolo HTTP existe una comunicación entre el usuario
 - Response : Cuando el servidor responde al cliente.
 - Request Body: viene a ser el cuerpo (body) de una solicitud del cliente al servidor.
 - Response Body: viene a ser el cuerpo (body) de una respuesta del servidor al cliente.
-  
-  
+
+# Modelos
+Un modelo es la representacion de una entidad en codigo, al menos de una manera descriptiva.
+![Modelos](./images/Modelos.png)
